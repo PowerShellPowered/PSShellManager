@@ -1,0 +1,2 @@
+# PSShellManager
+PowerShell Shell Manager
